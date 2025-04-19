@@ -1,0 +1,67 @@
+{
+  "type": "pfm:dynamic_furniture",
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "cataclysm:chorus",
+    "unearthed_journey:glyptostrobus",
+    "unearthed_journey:ginkgo",
+    "unearthed_journey:nothofagus",
+    "unearthed_journey:taxodium",
+    "unearthed_journey:dead",
+    "unearthed_journey:fig",
+    "unearthed_journey:palaeoraphe",
+    "unearthed_journey:black_walnut",
+    "unearthed_journey:sabalites",
+    "unearthed_journey:metasequoia_heerii",
+    "unearthed_journey:pine",
+    "unearthed_journey:acaciapollenites",
+    "unearthed_journey:leguminocarpon",
+    "unearthed_journey:betula",
+    "unearthed_journey:mangaris",
+    "biomemakeover:blighted_balsa",
+    "biomemakeover:willow",
+    "biomemakeover:swamp_cypress",
+    "biomemakeover:ancient_oak"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      {
+        "item": "minecraft:cyan_wool"
+      },
+      {
+        "item": "minecraft:cyan_wool"
+      },
+      {
+        "item": "minecraft:cyan_wool"
+      },
+      {
+        "item": "minecraft:torch"
+      },
+      {
+        "item": "minecraft:redstone"
+      }
+    ],
+    "variantChildren": {
+      "stripped_log": 2
+    }
+  },
+  "result": {
+    "outputClass": "BasicLampBlock",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "cyan"
+      },
+      "variantInNbt": 1
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "betula_unearthed_journey_table_basic",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:betula_unearthed_journey_table_basic"
+        }
+      ]
+    }
+  ]
+}

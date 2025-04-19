@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "fig_unearthed_journey_chair",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:fig_unearthed_journey_chair"
+        }
+      ]
+    }
+  ]
+}

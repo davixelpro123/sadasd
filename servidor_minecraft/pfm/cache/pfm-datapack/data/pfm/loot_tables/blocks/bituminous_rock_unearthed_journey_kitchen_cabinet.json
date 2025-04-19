@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "bituminous_rock_unearthed_journey_kitchen_cabinet",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:bituminous_rock_unearthed_journey_kitchen_cabinet"
+        }
+      ]
+    }
+  ]
+}
